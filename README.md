@@ -29,7 +29,7 @@
 
 ## 🛠️ Technologies Used
 
-- Python 🐍
+- Python 
 - TensorFlow / Keras
 - NumPy
 - OpenCV
