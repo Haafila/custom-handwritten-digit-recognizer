@@ -58,7 +58,7 @@ if uploaded_file is not None:
     prediction = np.argmax(predictions)
     confidence = predictions[0][prediction]
 
-    st.success(f"📝 Predicted Digit: {pred_digit}")
+    st.success(f"📝 Predicted Digit: {prediction}")
     st.info(f"📊 Confidence: {confidence * 100:.2f}%")
 
 
