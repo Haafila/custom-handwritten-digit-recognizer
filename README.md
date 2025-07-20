@@ -38,9 +38,10 @@
 
 ---
 
-## 🌐 Live Demo
+## 📷 Demo Screenshot
 
-👉 Try it here:
+![App Screenshot 1](Upload.png)
+![App Screenshot 2](Draw.png)
 
 ---
 
